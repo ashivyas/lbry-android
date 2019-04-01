@@ -63,7 +63,7 @@ Assuming `lbry-android` as the current working folder:
 Download the Android SDK, platform and build tools archives.
 * Android API 23 SDK - https://dl.google.com/android/android-sdk_r23-linux.tgz
 * Android API 27 platform - https://dl.google.com/android/repository/platform-27_r01.zip
-* Android build tools 26.0.1 - https://dl.google.com/android/repository/build-tools_r26.0.1-linux.
+* Android build tools 26.0.1 - https://dl-ssl.google.com/android/repository/build-tools_r26.0.1-linux
 
 Create the `.buildozer` path (and the `android` sub-path) in your home folder if it doesn't already exist.
 `mkdir ~/.buildozer`
